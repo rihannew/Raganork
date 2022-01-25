@@ -10,7 +10,7 @@
 <div>
 
   <div>
-<a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-four.git" target="blank"><img align="center" src="https://i.imgur.com/TvKY6bS.jpeg" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/rihannew/deployer-four.git" target="blank"><img align="center" src="https://i.imgur.com/TvKY6bS.jpeg" height="30" width="130" /></a>
 
   <div>
 
