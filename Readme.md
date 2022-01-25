@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@rihannew/Raganork-QR)
 <div>
 <a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-one.git" target="blank"><img align="center" src="https://i.imgur.com/8n5MytU.jpeg" height="30" width="130" /></a>
 <div>
