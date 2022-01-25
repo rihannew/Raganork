@@ -2,11 +2,11 @@
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@rihannew/Raganork-QR)
 <div>
-<a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-one.git" target="blank"><img align="center" src="https://i.imgur.com/8n5MytU.jpeg" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/rihannew/deployer-one.git" target="blank"><img align="center" src="https://i.imgur.com/8n5MytU.jpeg" height="30" width="130" /></a>
 <div>
-<a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-two.git" target="blank"><img align="center" src="https://i.imgur.com/ofq7Mds.jpegvg.png" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/rihannew/deployer-two.git" target="blank"><img align="center" src="https://i.imgur.com/ofq7Mds.jpegvg.png" height="30" width="130" /></a>
 <div>
-<a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-three.git" target="blank"><img align="center" src="https://i.imgur.com/XIJTK7W.jpeg" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/rihannew/deployer-three.git" target="blank"><img align="center" src="https://i.imgur.com/XIJTK7W.jpeg" height="30" width="130" /></a>
 <div>
 
   <div>
